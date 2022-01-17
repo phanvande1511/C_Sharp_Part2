@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/Btap_C#/BT_DeQuy/Cau_2/Cau_2/bin/Debug/Cau_2.exe
+/Users/tuanle/Desktop/De/Btap_C#/BT_DeQuy/Cau_2/Cau_2/bin/Debug/Cau_2.pdb
+/Users/tuanle/Desktop/De/Btap_C#/BT_DeQuy/Cau_2/Cau_2/obj/Debug/Cau_2.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/Btap_C#/BT_DeQuy/Cau_2/Cau_2/obj/Debug/Cau_2.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/Btap_C#/BT_DeQuy/Cau_2/Cau_2/obj/Debug/Cau_2.exe
+/Users/tuanle/Desktop/De/Btap_C#/BT_DeQuy/Cau_2/Cau_2/obj/Debug/Cau_2.pdb
